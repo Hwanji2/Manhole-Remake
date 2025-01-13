@@ -45,7 +45,7 @@ MANHOLE은 이러한 세계관을 바탕으로 한 **#3D #백룸+메뉴얼 #심�
 ## 개발 과정
 
 ### 지침서 완성
-
+![image](https://github.com/user-attachments/assets/58c93e70-6918-4691-8d31-79d52bbeaac3)
 지난 발표 당시 많은 관심을 받았던 **지침서** 부분을 드디어 완성했습니다.
 
 
@@ -93,4 +93,4 @@ MANHOLE은 이러한 세계관을 바탕으로 한 **#3D #백룸+메뉴얼 #심�
 ![image](https://github.com/user-attachments/assets/41506628-1a40-47d1-86fe-47ac4102bc2e)
 ![image](https://github.com/user-attachments/assets/46b10f79-8626-4924-b726-9577e10a7923)
 ![image](https://github.com/user-attachments/assets/86ddcf5a-382b-4af9-ae15-f6e322fb5515)
-![image](https://github.com/user-attachments/assets/58c93e70-6918-4691-8d31-79d52bbeaac3)
+
