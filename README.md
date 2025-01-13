@@ -1,5 +1,14 @@
 
-![image](https://github.com/user-attachments/assets/565a54a6-31ee-413c-a2a7-cc0cbf3e4cd8)
+[![MANHOLE](https://img.youtube.com/vi/SI5kJGIbT1k/0.jpg)](https://youtu.be/SI5kJGIbT1k?feature=shared)
+
+
+[![MANHOLE](https://img.youtube.com/vi/_wUYo5rqy-Y/0.jpg)](https://youtu.be/_wUYo5rqy-Y)
+
+
+[![MANHOLE](https://img.youtube.com/vi/AnpP05D5xY0/0.jpg)](https://youtu.be/AnpP05D5xY0?feature=shared)
+
+[![MANHOLE](https://img.youtube.com/vi/pMRmSrVplwA/0.jpg)](https://youtu.be/pMRmSrVplwA)
+
 
 ## MANHOLE: 개발 일지
 
@@ -9,7 +18,6 @@
 안녕하세요~! 저희는 MANHOLE을 제작 중인 **언더그라운드**입니다!  
 아이디어 세미나와 1차 발표에 이어 많은 관심 감사드립니다.
 
-✨ 아래는 엣지 회원이라면 누구나 열람 가능한 MANHOLE의 개발 일지입니다. ✨
 
 ## 게임 소개
 
@@ -74,12 +82,6 @@ MANHOLE은 이러한 세계관을 바탕으로 한 **#3D #백룸+메뉴얼 #심�
 - Material 적용 중 UV 매핑 문제 발생  
 - 직접 **UV 맵핑을 수정**하여 문제 해결 🥲
 
-## 향후 계획
-
-- **엔딩 구현**  
-- **광각 렌즈 효과 추가**  
-- **필름 효과 추가**  
-- **물리적인 충돌 디버깅**
 
 추가적인 개발 부분은 보여드리고 싶지만,  
 **공포 게임** 특성상 **미지의 요소**를 중점으로 하고 있어 인게임에서 직접 보여드리겠습니다!
@@ -88,7 +90,9 @@ MANHOLE은 이러한 세계관을 바탕으로 한 **#3D #백룸+메뉴얼 #심�
 감사합니다!
 
 ## 참고  
+![image](https://github.com/user-attachments/assets/565a54a6-31ee-413c-a2a7-cc0cbf3e4cd8)
 파일 크기가 커서 GitHub에 업로드할 수 없기 때문에, 아래 링크를 통해 파일에 접근하실 수 있습니다.  
+[MANHOLE 프로젝트 파일 (Google Drive)](https://drive.google.com/file/d/14hDly5o2As_InkV8ujjoQMeaK_pgSbRe/view?usp=sharing)
 
 ![image](https://github.com/user-attachments/assets/565a54a6-31ee-413c-a2a7-cc0cbf3e4cd8)
 ![image](https://github.com/user-attachments/assets/da6af8e4-878d-495e-82e9-e20405832336)
