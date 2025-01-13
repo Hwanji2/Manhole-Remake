@@ -2,12 +2,9 @@
 [![MANHOLE](https://img.youtube.com/vi/SI5kJGIbT1k/0.jpg)](https://youtu.be/SI5kJGIbT1k?feature=shared)
 
 
-[![MANHOLE](https://img.youtube.com/vi/_wUYo5rqy-Y/0.jpg)](https://youtu.be/_wUYo5rqy-Y)
 
 
 [![MANHOLE](https://img.youtube.com/vi/AnpP05D5xY0/0.jpg)](https://youtu.be/AnpP05D5xY0?feature=shared)
-
-[![MANHOLE](https://img.youtube.com/vi/pMRmSrVplwA/0.jpg)](https://youtu.be/pMRmSrVplwA)
 
 
 ## MANHOLE: 개발 일지
@@ -37,6 +34,8 @@
 하지만 무리한 시스템 구축으로 인해 실험 도중 인명 피해가 발생하게 되고,  
 결국 프로젝트는 중단 위기에 처하게 됩니다.  
 이에 외부에서 피실험자를 모집하기로 결정합니다...
+
+[![MANHOLE](https://img.youtube.com/vi/_wUYo5rqy-Y/0.jpg)](https://youtu.be/_wUYo5rqy-Y)
 
 ## 세계관
 
