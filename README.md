@@ -11,9 +11,6 @@
 [MANHOLE 프로젝트 파일 (Google Drive)](https://drive.google.com/file/d/14hDly5o2As_InkV8ujjoQMeaK_pgSbRe/view?usp=sharing)
 
 
-안녕하세요~! 저희는 MANHOLE을 제작 중인 **언더그라운드**입니다!  
-아이디어 세미나와 1차 발표에 이어 많은 관심 감사드립니다.
-
 
 ## 게임 소개
 
