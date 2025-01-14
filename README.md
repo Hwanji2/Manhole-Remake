@@ -77,7 +77,7 @@ MANHOLE은 이러한 세계관을 바탕으로 한 **#3D #백룸+메뉴얼 #심�
 
 ## 참고  
 ![image](https://github.com/user-attachments/assets/565a54a6-31ee-413c-a2a7-cc0cbf3e4cd8)
-파일 크기가 커서 GitHub에 업로드할 수 없기 때문에, 아래 링크를 통해 파일에 접근하실 수 있습니다.  
+<br>파일 크기가 커서 GitHub에 업로드할 수 없기 때문에, 아래 링크를 통해 파일에 접근하실 수 있습니다.  
 [MANHOLE 프로젝트 파일 (Google Drive)](https://drive.google.com/file/d/14hDly5o2As_InkV8ujjoQMeaK_pgSbRe/view?usp=sharing)
 
 ![image](https://github.com/user-attachments/assets/da6af8e4-878d-495e-82e9-e20405832336)
