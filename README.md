@@ -84,6 +84,5 @@ MANHOLE은 이러한 세계관을 바탕으로 한 **#3D #백룸+메뉴얼 #심�
 ![image](https://github.com/user-attachments/assets/cc56e5e8-44e3-4087-9753-dc9de851d54c)
 ![image](https://github.com/user-attachments/assets/9b519550-46ae-42a9-8cf3-81e2ca1be3a8)
 ![image](https://github.com/user-attachments/assets/41506628-1a40-47d1-86fe-47ac4102bc2e)
-![image](https://github.com/user-attachments/assets/46b10f79-8626-4924-b726-9577e10a7923)
 ![image](https://github.com/user-attachments/assets/86ddcf5a-382b-4af9-ae15-f6e322fb5515)
 
